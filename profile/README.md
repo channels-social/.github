@@ -7,9 +7,9 @@
 Plug-and-play community infrastructure that lives inside your app or website,
 with AI that sets it up and helps run it.
 
-[**Website**](https://channels.social) ·
-[**Docs**](https://channels.social/documentation/channels) ·
-[**Pricing**](https://channels.social/pricing) ·
+[**Website**](https://channelssocial.com) ·
+[**Docs**](https://channelssocial.com/documentation/channels) ·
+[**Pricing**](https://channelssocial.com/pricing) ·
 [**React Native SDK**](https://www.npmjs.com/package/@channels-social/react-native) ·
 [**Flutter SDK**](https://pub.dev/packages/channels_flutter)
 
@@ -29,7 +29,7 @@ Channels lets a business add a full community (channels, topics, real-time chat,
 
 ```html
 <!-- One line on any website -->
-<script async src="https://cdn.channels.social/widget.js?apiKey=YOUR_API_KEY"></script>
+<script async src="https://channelssocial.com/widget.js?apiKey=YOUR_API_KEY"></script>
 ```
 
 ```tsx
@@ -207,7 +207,7 @@ Both pass the signed-in user through, accept a channel or topic to open directly
 
 <div align="center">
 
-**Want this in your product?** → [channels.social](https://channels.social)
+**Want this in your product?** → [channelssocial.com](https://channelssocial.com)
 
 Questions: [reach@channels.social](mailto:reach@channels.social)
 
